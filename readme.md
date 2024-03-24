@@ -8,8 +8,8 @@
 
 1. **Create a Virtual Environment**
 
-   pip install virtualenv
-   virtualenv env 
+   * pip install virtualenv
+   * virtualenv env 
 
 2. **Activate the Environment**
 
